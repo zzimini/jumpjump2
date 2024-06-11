@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/jump quiz.unity
+    guid: 25a07243802131d4fa96013634a6059c
+  - enabled: 1
+    path: Assets/MiniGameScene.unity
+    guid: 799961d3d796ab7419ecdf2d755e68d3
   m_configObjects: {}
